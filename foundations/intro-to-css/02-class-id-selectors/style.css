@@ -1,0 +1,25 @@
+.pink,
+.ponk {
+    background-color:#f38484; 
+
+    font-family: verdana, 'dejavu sans', sans-serif;
+ }
+
+ .ponk 
+ {
+    font-size: 24px
+}
+
+#blue-text {
+
+    color: #0000ff;
+
+    font-size: 36px
+}
+
+#green {
+
+    background-color: #90ee90;
+    font-size: 24px; 
+    font-weight:bold 
+}
